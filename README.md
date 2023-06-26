@@ -3,7 +3,7 @@
 
 As a lifelong learner, I'm always looking for opportunities to expand my knowledge and expertise in the programming field. My goal is to combine my passion for learning with my web development skills to build a fulfilling career.
 
-I take pride in my work and am committed to delivering high-quality web applications that exceed my clients' expectations. You can check out some of my projects on my GitHub profile at https://github.com/MoamenZyan.
+I take pride in my work and am committed to delivering high-quality web applications that exceed my clients' expectations. 
 
 If you're looking for a talented and dedicated Front-End Web Developer to bring your web project to life, I'd love to hear from you. Let's connect!.</h3>
 
