@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moamen Zyan</h1>
-<h3 align="center">Hello, I'm Moamen, a Front-End Web Developer with a passion for creating beautiful and functional websites and landing pages. I have experience working on various web projects, where I've honed my skills in HTML, CSS, and JavaScript.
-
-As a lifelong learner, I'm always looking for opportunities to expand my knowledge and expertise in the programming field. My goal is to combine my passion for learning with my web development skills to build a fulfilling career.
-
-I take pride in my work and am committed to delivering high-quality web applications that exceed my clients' expectations. 
-
-If you're looking for a talented and dedicated Front-End Web Developer to bring your web project to life, I'd love to hear from you. Let's connect!.</h3>
+<h3 align="center">Greetings! I'm Moamen, a dynamic Computer Science student deeply enthusiastic about the intersection of technology, DevOps practices, Cloud Computing, and Web Development. Throughout my academic journey, I've been cultivating a robust skill set and hands-on experience in cutting-edge technologies. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moamenzyan&label=Profile%20views&color=0e75b6&style=flat" alt="moamenzyan" /> </p>
 
