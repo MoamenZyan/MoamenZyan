@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moamen Zyan</h1>
-<h3 align="center">Greetings! I'm Moamen, a dynamic Computer Science student deeply enthusiastic about the intersection of technology, DevOps practices, Cloud Computing, and Web Development. Throughout my academic journey, I've been cultivating a robust skill set and hands-on experience in cutting-edge technologies. 
-
+<h3 align="center">A Software Engineer with experience of 3 years in software industrie
+full stack engineer with frontend, backend and devops technologies!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moamenzyan&label=Profile%20views&color=0e75b6&style=flat" alt="moamenzyan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
