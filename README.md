@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moamen Zyan</h1>
-<h3 align="center">A Software Engineer with experience of 2 years in software industrie
-full stack engineer with frontend, backend and devops technologies!
+<h3 align="center">A Software Engineer with 2+ years of experience in the software industry, specializing in backend development, DevOps, and cloud infrastructure.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moamenzyan&label=Profile%20views&color=0e75b6&style=flat" alt="moamenzyan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
